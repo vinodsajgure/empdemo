@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:11:48:12 +0530] "GET / HTTP/1.1" 200 4522 http-bio-8080-exec-1 1927
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:11:48:12 +0530] "GET /resources/css/style.css HTTP/1.1" 304 - http-bio-8080-exec-1 19
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:11:48:12 +0530] "GET /resources/images/image3.png HTTP/1.1" 304 - http-bio-8080-exec-2 12
+0:0:0:0:0:0:0:1 - - [31/Mar/2023:11:48:12 +0530] "GET /resources/images/image2.jpg HTTP/1.1" 304 - http-bio-8080-exec-1 132

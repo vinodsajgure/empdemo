@@ -1,0 +1,110 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.header {
+	
+	background-color: #034f84;
+	height: 80px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding:0 5%;
+			
+}
+
+.header .logo{
+	
+	color: white;
+	font-size: 30px;
+}
+
+.header .logo span {
+	color: red;
+}
+
+.header ul {
+	list-style: none;
+	display: flex;
+	margin:0 100px;
+}
+
+.header ul li{
+	padding: 10px 30px;
+}
+
+.header ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+.header ul li a:hover{
+	color: blue;
+}
+
+
+
+
+.section1,.section2,.section3 {
+	
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    text-align: center;	
+}
+
+footer {
+	
+    font-size:14px;
+    bottom: 0;
+    height:60px;
+	width: 100%;
+	position: relative;
+	top: 100%;
+	color: white;
+	background-color: #034f84;
+}
+
+footer p{
+	padding: 22px;
+	text-align: center;
+}
+
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES ABOUT US
+* ==========================================
+*
+*/
+
+.social-link {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  border-radius: 50%;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+}
+
+.social-link:hover,
+.social-link:focus {
+  background: #ddd;
+  text-decoration: none;
+  color: #555;
+}
+
+
+.contactus {
+	margin:auto;
+	width: 30%;
+} 

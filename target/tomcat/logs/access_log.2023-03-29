@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:13 +0530] "GET / HTTP/1.1" 200 4537 http-bio-8080-exec-2 418
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:13 +0530] "GET /resources/css/style.css HTTP/1.1" 304 - http-bio-8080-exec-2 224
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:14 +0530] "GET /resources/images/image3.png HTTP/1.1" 304 - http-bio-8080-exec-1 59
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:14 +0530] "GET /resources/images/image2.jpg HTTP/1.1" 304 - http-bio-8080-exec-2 152
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:32 +0530] "GET /aboutus HTTP/1.1" 200 8642 http-bio-8080-exec-2 50
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:45 +0530] "GET /contactus HTTP/1.1" 500 3910 http-bio-8080-exec-2 773
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:50 +0530] "GET /gallery HTTP/1.1" 200 11765 http-bio-8080-exec-5 61
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:50:59 +0530] "GET /login HTTP/1.1" 200 2946 http-bio-8080-exec-5 56
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:51:10 +0530] "GET /aboutus HTTP/1.1" 200 8642 http-bio-8080-exec-10 11
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:51:11 +0530] "GET /contactus HTTP/1.1" 500 3910 http-bio-8080-exec-10 35
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:51:15 +0530] "GET /gallery HTTP/1.1" 200 11765 http-bio-8080-exec-8 8
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:51:18 +0530] "GET / HTTP/1.1" 200 4537 http-bio-8080-exec-8 9
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:51:19 +0530] "GET /login HTTP/1.1" 200 2946 http-bio-8080-exec-8 5
+0:0:0:0:0:0:0:1 - - [29/Mar/2023:15:51:22 +0530] "GET / HTTP/1.1" 200 4537 http-bio-8080-exec-8 8
